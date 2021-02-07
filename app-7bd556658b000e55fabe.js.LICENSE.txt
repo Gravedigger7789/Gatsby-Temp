@@ -3,6 +3,8 @@
  * ie10 fix - Mikael Kristiansson 2019
  */
 
+/*! License information is available at app.licenses.txt */
+
 /**
  * A better abstraction over CSS.
  *

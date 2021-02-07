@@ -3,3 +3,5 @@
   Licensed under the MIT License (MIT), see
   http://jedwatson.github.io/classnames
 */
+
+/*! License information is available at component---src-templates-blog-post-jsx.licenses.txt */
